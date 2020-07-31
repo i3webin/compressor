@@ -1,0 +1,6 @@
+plugin:
+    name: 'i3web.compressor::lang.plugin.name'
+    description: 'i3web.compressor::lang.plugin.description'
+    author: i3web
+    icon: oc-icon-adjust
+    homepage: 'https://github.com/i3webin/compressor'
